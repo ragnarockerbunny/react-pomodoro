@@ -1,0 +1,26 @@
+body{
+    background-color: #5CAB7D;
+    color: #1D221B;
+    font-family: Verdana, Mono, Serif;
+  }
+  #root{
+    display: flex;
+    justify-content: center;
+  }
+
+  .btn-app{
+    margin-right: 10px;
+  }
+
+  .app-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 100vw;
+  }
+  .app{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+  }
